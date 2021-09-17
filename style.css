@@ -77,9 +77,11 @@ body{
     flex-flow: column nowrap;
     align-items: center;
     justify-content: center;
-    background-image: url(images/pattern-circles.svg);
+    background-image: ;
     background-repeat: no-repeat;
     background-position: center;
+    background: url('images/pattern-circles.svg') no-repeat center;
+    background-size: 200%;
     /* background-size: 45%; */
     /* padding-bottom: 5rem; */
     width: 90%;
@@ -255,6 +257,7 @@ SIMPLE SLIDER MADE BY MYSELF :)
 @media screen and (min-width: 1200px){
     .wrapper{
         background-size: contain;
+        background-repeat: no-repeat;
     }
     .container{ 
         width: 50%;
