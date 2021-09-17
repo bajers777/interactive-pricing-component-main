@@ -13,34 +13,44 @@
 
 </head>
 <body>
-
+<div class="wrapper">
   <div class="container">
     <div class="up-container">
       <strong>Simple, traffic-based pricing</strong>
-      <p>Sign-up for our 30-day trial.</p> 
-      <p>No credit card required.</p>
+      <p>Sign-up for our 30-day trial. No credit card required.</p>
     </div>
     <div class="main-container">
-        <p><span>XXX</span> Pageviews</p>
+      <div class="main-container-slider-area">
+        <p class="view-value"></p>
         <div class="slider-container">
-          <input type="range" class="slider" min="1" max="5" value="3">
+          <div class="slider-track"></div>
+          <div class="slider-track-gray"></div>
+          <input type="range" class="slider" min="0" max="4" step="1">
+          <div class="thumb"></div>
         </div>
-        <p><b>$XXX</b>/month</p>
-        <p>Monthly Billing
-        <span><input type="checkbox" id="switch" /><label for="switch"></label></span>
-        Yearly Billing 25% discount
-        </p>
-        <hr>
+        <p class="cash-value"><b></b> / month</p>
+      </div>
+      <div class="main-container-text-area">
+        <p>Monthly Billing</p>
+        <span class="switch">
+          <input id="check" type="checkbox">
+          <label for="check" class="switcher">
+          <span class="toggler"></span>
+          </label>
+        </span>
+        <p>Yearly Billing <b>-25%</b></p>
+      </div>
+      </div>
+      <div class="bottom-container">
         <ul>
           <li>Unlimited websites</li>
           <li>100% data ownership</li>
           <li>Email reports</li>
-          <li><button>Start my trial</button></li>
         </ul>
+        <button>Start my trial</button>
+      </div>
     </div>
-  
-  
-  </div>
+</div>
 
   
   
