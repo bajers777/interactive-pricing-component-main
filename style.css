@@ -53,7 +53,7 @@ body{
     justify-content: center;
     background-image: url(images/bg-pattern.svg);
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: contain;
 }
 .container{
     display: flex;
