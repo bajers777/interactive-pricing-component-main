@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bajers777/interactive-pricing-component-main.git]
-- Live Site URL: [https://bajers777.github.io/interactive-pricing-component-main/]
+- Solution URL: [SOLUTION](https://github.com/bajers777/interactive-pricing-component-main.git)
+- Live Site URL: [LIVE](https://bajers777.github.io/interactive-pricing-component-main/)
 
 ## My process
 
