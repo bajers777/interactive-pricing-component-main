@@ -51,9 +51,8 @@ body{
 .wrapper{
     display: flex;
     justify-content: center;
-    background-image: url(images/bg-pattern.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
+    background: url(images/bg-pattern.svg) no-repeat;
+    background-size: 100% 50%;
 }
 .container{
     display: flex;
@@ -77,13 +76,8 @@ body{
     flex-flow: column nowrap;
     align-items: center;
     justify-content: center;
-    background-image: ;
-    background-repeat: no-repeat;
-    background-position: center;
     background: url('images/pattern-circles.svg') no-repeat center;
-    background-size: 200%;
-    /* background-size: 45%; */
-    /* padding-bottom: 5rem; */
+    background-size: contain;
     width: 90%;
     padding: 3rem;
 }
@@ -256,8 +250,7 @@ SIMPLE SLIDER MADE BY MYSELF :)
 }
 @media screen and (min-width: 1200px){
     .wrapper{
-        background-size: contain;
-        background-repeat: no-repeat;
+        background-size: 100% 60%;
     }
     .container{ 
         width: 50%;
