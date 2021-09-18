@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/MOBILE.PNG)
-![./images/DESKtOP.PNG]
+![](/images/MOBILE.PNG)
+![](/images/DESKtOP.PNG)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
@@ -49,8 +49,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
