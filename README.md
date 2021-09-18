@@ -30,13 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/mobile.png?raw=true)
-![](/images/desktop.png?raw=true)
+![mobile](https://user-images.githubusercontent.com/85802159/133888859-ebcb7441-4a22-4d00-b22b-ca228df2b623.png)
+![desktop](https://user-images.githubusercontent.com/85802159/133888846-72db8437-38b1-4aa8-9918-b73ac8ef218e.png)
+
 
 
 ### Links
 
-- Solution URL: [SOLUTION](https://github.com/bajers777/interactive-pricing-component-main.git)
+- Solution URL: [SOLUTION](https://github.com/bajers777/interactive-pricing-component-main)
 - Live Site URL: [LIVE](https://bajers777.github.io/interactive-pricing-component-main/)
 
 ## My process
