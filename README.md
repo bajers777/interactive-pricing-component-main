@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/MOBILE.PNG]
+![](./images/MOBILE.PNG)
 ![./images/DESKtOP.PNG]
 
 
